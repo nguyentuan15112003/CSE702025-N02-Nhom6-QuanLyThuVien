@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4af366f9-72b8-4bc0-afc5-87f01c23354c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-client/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-client/src/main/java/org/bookstore/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-client/src/main/java/org/bookstore/client/client/BookClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-client/src/main/java/org/bookstore/client/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-client/src/main/java/org/bookstore/client/util/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-client/src/main/java/org/bookstore/client/util/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-client/src/main/resources/org/bookstore/client/MainView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-server/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-server/src/main/java/org/bookstore/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-server/src/main/java/org/bookstore/server/dto/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-server/src/main/java/org/bookstore/server/service/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-server/src/main/java/org/bookstore/server/service/IBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmi-server/src/main/java/org/bookstore/server/util/DbConnect.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2slC47EZpzY2F7woHZXTVjkyKw8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Client.executor": "Run",
+    "Application.Server.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/rmi-book-store",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\rmi-book-store\rmi-client\src\main\resources" />
+      <recent name="D:\Desktop\rmi-book-store\rmi-server\src\main\java\org\bookstore\server" />
+      <recent name="D:\Desktop\rmi-book-store\rmi-client\src\main\java\org\bookstore\client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\rmi-book-store\rmi-client\src\main\resources\org\bookstore\client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bookstore.client.Client" />
+      <module name="rmi-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bookstore.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bookstore.server.Server" />
+      <module name="rmi-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bookstore.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4af366f9-72b8-4bc0-afc5-87f01c23354c" name="Changes" comment="" />
+      <created>1739020581053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739020581053</updated>
+      <workItem from="1739020583276" duration="4487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
